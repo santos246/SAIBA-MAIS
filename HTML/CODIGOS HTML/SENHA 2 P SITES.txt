@@ -1,0 +1,102 @@
+﻿<!doctype html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8">
+<title>TÍTULO🔴</title>
+<link rel="sortcut icon" href="IMAGEM🔴" type="image/gif" />
+<meta name="author" content="santos.12164@hotmail.com">
+<meta name="description" content="DESCRIÇÃOSOBREOSITE🔴">
+<meta name="keywords" content="tang🔴, tang🔴, tang🔴">
+<style>
+/*Link não visitado */
+a:link {
+  color: green;
+  text-decoration: none;
+}
+/*Link já visitado*/
+a:visited {
+  color: blue;
+  text-decoration: none;
+}
+/*Quando o mouse passa por cima*/
+a:hover {
+  color: red;
+  text-decoration: none;
+}
+/*Link ativo/selecionado*/
+a:active {
+  color: yellow;
+  text-decoration: none;
+}
+</style>
+<CENTER>
+
+<!-------------------------------🔴----------------------------->
+<!-------------------------------------------------------------->
+<!-------------------------------------------------------------->
+<!-------------------------------------------------------------->
+<!-------------------------------------------------------------->
+<!-------------------------------------------------------------->
+<!-------------------------------------------------------------->
+<!-------------------------------------------------------------->
+https://forum.scriptbrasil.com.br/topic/56750-pagina-html-com-senha/
+<!-------------------------------------------------------------->
+<html>
+<head>
+<title>SENHA</title>
+</head>
+
+<CENTER>
+<FORM>
+<input type="button" value="🔐🔞CLIQUE AQUI PARA ENTRAR🔞🔐" onClick="passWord()">
+</FORM>
+</CENTER>
+
+
+<script language="javascript">
+function passWord() {
+var testV = 1;
+var pass1 = prompt('Insira sua Senha','Digite sua senha');
+while (testV < 3) {
+ if (!pass1) 
+  history.go(-1);
+ if (pass1.toLowerCase() == "SENHA AQUI") {
+   alert('PRONTO !, AGORA CLIQUE EM OK PRA CONTINUAR...');
+   window.open('https://forum.scriptbrasil.com.br/topic/56750-pagina-html-com-senha/');
+   break;
+   } 
+  testV+=1;
+  var pass1 = 
+  prompt('Acesso Negado - Password Incorrecto.','Digite sua senha');
+ }
+if (pass1.toLowerCase()!="password" & testV ==3) 
+history.go(-1);
+return " ";
+}
+</script>
+
+
+</body>
+</html>
+<!-------------------------------------------------------------->
+
+<!-------------------------------------------------------------->
+http://www.explorando.com.br/dica026-senhajs.htm
+
+<script language=javascript>
+senha = 'SENHA AQUI';
+senhadig = prompt("Digite a senha","")
+if (senha != senhadig){
+alert('Acesso negado!');
+top.location.href='erro.htm';
+}
+</script>
+<!-------------------------------------------------------------->
+
+<html>
+<a href="#top"><H3>VOLTAR AO TOPO</H3></a>
+</CENTER></html>	
+</body>
+</html>
+
+

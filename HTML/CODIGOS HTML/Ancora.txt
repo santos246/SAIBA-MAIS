@@ -1,0 +1,21 @@
+
+
+
+
+
+<!-------------------------------
+Código: <a name="NOME🔴">NOME🔴</a>
+E o código do comando "ir para" é:
+Código: <a href="#NOME🔴">NOME🔴</a>
+Você pode criar vários pontos, como:
+<a name="NOME🔴2"> e <a href="#NOME🔴2">NOME🔴2</a>
+Para fazer o usuário "Ir para o topo" não é necessário uma âncora como acima, tem um código especial para isto:
+Código: <a href="#top">Ir para o topo</a>
+Para ir à outra página:
+Código: <a href="NOMEPAG🔴/NOME🔴.html#NOME🔴">NOME🔴</a>
+Utilizando uma imagem como âncora:
+Código: <a href="#NOME🔴"><img src="imagem.jpg🔴"></a>
+----------------------------->
+
+
+
